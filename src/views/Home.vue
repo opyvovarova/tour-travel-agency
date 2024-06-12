@@ -475,54 +475,54 @@ export default {
       ],
       offers: [
         {
-          image: "i1.png",
+          image: "/i1.png",
           title: " Different Coutries",
         },
         {
-          image: "i2.png",
+          image: "/i2.png",
           title: " Bus Tours",
         },
         {
-          image: "i3.png",
+          image: "/i3.png",
           title: " Food Tours",
         },
         {
-          image: "i4.png",
+          image: "/i4.png",
           title: " Summer Rest",
         },
         {
-          image: "i5.png",
+          image: "/i5.png",
           title: "Ship Cruises",
         },
         {
-          image: "i6.png",
+          image: "/i6.png",
           title: "Mountains Tours",
         },
       ],
       hotels: [
         {
-          image: "h1.jpg",
+          image: "/h1.jpg",
           title: " Enjoy The Beauty Place in Greece City",
           subtitle1: "Greece",
           subtitle2: "4 Day's 3 Night",
           money: "$1200",
         },
         {
-          image: "h2.jpg",
+          image: "/h2.jpg",
           title: " Enjoy The Beauty Place in Maldivs Beach",
           subtitle1: "Maldivs",
           subtitle2: "5 Day's 4 Night",
           money: "$1300",
         },
         {
-          image: "h3.jpg",
+          image: "/h3.jpg",
           title: " Enjoy The Beauty Place in Bhutan City",
           subtitle1: "Bhutan",
           subtitle2: "3 Day's 2 Night",
           money: "$900",
         },
         {
-          image: "h4.jpg",
+          image: "/h4.jpg",
           title: " Enjoy The Beauty Place in Paris City",
           subtitle1: "Paris",
           subtitle2: "4 Day's 3 Night",
@@ -531,28 +531,28 @@ export default {
       ],
       travels: [
         {
-          image: "f1.jpg",
+          image: "/f1.jpg",
         },
         {
-          image: "f2.jpg",
+          image: "/f2.jpg",
         },
         {
-          image: "f3.jpg",
+          image: "/f3.jpg",
         },
         {
-          image: "f4.jpg",
+          image: "/f4.jpg",
         },
         {
-          image: "f5.jpg",
+          image: "/f5.jpg",
         },
         {
-          image: "f6.jpg",
+          image: "/f6.jpg",
         },
         {
-          image: "5.jpg",
+          image: "/5.jpg",
         },
         {
-          image: "8.jpg",
+          image: "/8.jpg",
         },
       ],
     }

@@ -1,7 +1,10 @@
 <template>
   <v-app-bar height="80" color="#FEF5F8" scroll-behavior="elevate" id="inspire">
-    <v-img src="/1.png" class=""></v-img>
-    <v-app-bar-title class="text-h4">Explore</v-app-bar-title>
+    <div class="logo-box">
+      <v-img src="/1.png" class="logo-img"></v-img>
+      <v-app-bar-title class="text-h4 logo-text">Explore</v-app-bar-title>
+    </div>
+   
     <v-spacer></v-spacer>
       <v-menu transition="slide-x-transition">
         <template v-slot:activator="{props}">
@@ -73,4 +76,18 @@ export default {
     background-color: white;
     color:#6347f9;
   }
+  .logo-box {
+    display: flex;
+    align-items: center;
+    width: 250px;
+    height: 100px;
+    margin-left: 100px;
+}
+
+.logo-text {
+  color: #1f3347;
+  font-size: 50px;
+
+}
+
 </style>
